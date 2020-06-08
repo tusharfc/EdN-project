@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EdN-project/static/css/main.a5ef490a.chunk.css",
+    "main.js": "/EdN-project/static/js/main.4725e3dc.chunk.js",
+    "main.js.map": "/EdN-project/static/js/main.4725e3dc.chunk.js.map",
+    "runtime~main.js": "/EdN-project/static/js/runtime~main.7a3441b2.js",
+    "runtime~main.js.map": "/EdN-project/static/js/runtime~main.7a3441b2.js.map",
+    "static/css/2.5ec480d0.chunk.css": "/EdN-project/static/css/2.5ec480d0.chunk.css",
+    "static/js/2.c5985b3f.chunk.js": "/EdN-project/static/js/2.c5985b3f.chunk.js",
+    "static/js/2.c5985b3f.chunk.js.map": "/EdN-project/static/js/2.c5985b3f.chunk.js.map",
+    "index.html": "/EdN-project/index.html",
+    "precache-manifest.9c8ce9c653aa81a27d0eff3ad34abc62.js": "/EdN-project/precache-manifest.9c8ce9c653aa81a27d0eff3ad34abc62.js",
+    "service-worker.js": "/EdN-project/service-worker.js",
+    "static/css/2.5ec480d0.chunk.css.map": "/EdN-project/static/css/2.5ec480d0.chunk.css.map",
+    "static/css/main.a5ef490a.chunk.css.map": "/EdN-project/static/css/main.a5ef490a.chunk.css.map"
+  }
+}
