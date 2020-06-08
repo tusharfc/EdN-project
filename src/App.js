@@ -95,7 +95,7 @@ class App extends Component {
             <div>
                 <NavBar
                     dark={true}
-                    name="Mind Jar"
+                    name="Educational Neuroscience Project"
                     score={this.state.score}
                     wins={this.state.wins}
                     loses={this.state.loses}
@@ -145,9 +145,7 @@ class App extends Component {
 
                 </ReactModal>
 
-                <nav class="navbar fixed-bottom navbar-light bg-light">
-                    <a class="text" href="/">Mind Jar</a>
-                </nav>
+                
                 
             </ div>
 
